@@ -16,6 +16,7 @@ namespace UtilityProject1
         {
             try
             {
+                Console.WriteLine("Starting Dynamics 365 Opportunity Close Example...");
                 string clientId = "48a5b21c-0523-4f57-892d-e9339a831fae";
                 string clientSecret = "qM28Q~6azAY1.Ovop_jso8aAhdbo3bzPOszlBds-";
                 string authority = "https://login.microsoftonline.com/63a6ea12-4c41-4909-9a2d-e047fe21a297";
